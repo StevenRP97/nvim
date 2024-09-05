@@ -9,6 +9,6 @@ vim.g.mapleader = " "
 -- Keyboard shortcuts 
 vim.keymap.set('n','<C-f>', ':source %<CR>', {})
 vim.keymap.set('n','<C-s>', ':wa<CR>', {})
---vim.keymap.set('n','<C-S-q>', ':q<CR>', {})
 vim.keymap.set('n','<A-q>', ':q<CR>', {})
+vim.keymap.set('n', '<A-g>', 'git add .', {})
 

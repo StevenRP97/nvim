@@ -1,3 +1,5 @@
+-- This plugin adds some cool features to the specified languages, but I'm not sure about how it works yet
+
 return {
   "nvim-treesitter/nvim-treesitter", 
   build = ":TSUpdate",

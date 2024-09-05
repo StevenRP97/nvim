@@ -1,3 +1,5 @@
+-- This plugins adds the line in the bottom with some details
+
 return{
   'nvim-lualine/lualine.nvim',
   config = function()

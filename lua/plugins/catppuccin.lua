@@ -1,3 +1,5 @@
+--This pluguin is a theme for neovim called catpuccin
+
 return{
   'catppuccin/nvim',
   name = 'catppuccin',

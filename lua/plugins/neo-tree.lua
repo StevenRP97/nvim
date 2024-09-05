@@ -1,3 +1,5 @@
+-- This plugin is to display the files in the left
+
 return{
     "nvim-neo-tree/neo-tree.nvim",
     branch = "v3.x",
