@@ -7,5 +7,5 @@ vim.keymap.set('n','<A-z>', ':wincmd j<CR>', {})
 
 vim.keymap.set('n','<C-A-a>', ':Git add .<CR>', {})
 vim.keymap.set('n','<C-A-c>', ':Git commit -m ""', {})
-vim.keymap.set('n','C-A-p>', ':Git push<CR>', {})
+vim.keymap.set('n','<C-A-p>', ':Git push<CR>', {})
 
