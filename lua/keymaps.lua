@@ -15,7 +15,3 @@ vim.keymap.set('n','<A-j>', ':wincmd j<CR>', {})
 vim.keymap.set('n','<A-h>', ':wincmd h<CR>', {})
 vim.keymap.set('n','<A-l>', ':wincmd l<CR>', {})
 
--- Arduino related 
---vim.keymap.set('n', '<leader>ca', ':!arduino-cli compile --fqbn arduino:avr:uno %<CR>', {})
---vim.keymap.set('n', '<leader>up', ':!arduino-cli upload -p /dev/ttyUSB0 --fqbn arduino:avr:uno %<CR>', {})
-
