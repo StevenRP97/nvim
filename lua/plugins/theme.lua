@@ -1,10 +1,10 @@
 -- Plugin to apply gruvbox 
 
 return{
-  "ellisonleao/gruvbox.nvim",
-  name = 'gruvbox',
+  "EdenEast/nightfox.nvim",
+  name = 'Duskfox',
   config  = function()
-    vim.cmd("colorscheme gruvbox")
+    vim.cmd("colorscheme duskfox")
   end
 }
 
